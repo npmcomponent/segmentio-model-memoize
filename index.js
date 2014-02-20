@@ -1,6 +1,6 @@
-var each = require('each')
-  , type = require('type')
-  , bind = require('bind');
+var each = require('component-each')
+  , type = require('component-type')
+  , bind = require('component-bind');
 
 
 /**

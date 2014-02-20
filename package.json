@@ -1,0 +1,16 @@
+{
+  "name": "segmentio-model-memoize",
+  "description": "Memoizes the model objects returned from the server to reduce outbound requests and speed up initial page loading.",
+  "version": "0.0.2",
+  "keywords": [
+    "model",
+    "cache",
+    "memoize"
+  ],
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git"
+  },
+  "license": "MIT"
+}
